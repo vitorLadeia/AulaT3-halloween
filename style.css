@@ -27,3 +27,11 @@ figcaption{
     color: #470a81;
     font-size: 15px;
 }
+
+footer{
+    background-color: black;
+}
+li{
+    color:#c50e0e;
+    list-style: none;
+}
